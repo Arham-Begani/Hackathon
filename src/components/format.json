@@ -1,0 +1,26 @@
+{
+    "GivenProduct": {
+        "Product": "Apple iPhone 14 Pro Max",
+        "Image": "https://example.com/iphone14promax.jpg",
+        "Estimated_kg_CO2e": 100,
+        "Repairability_Rating": 6,
+        "Refurbishability_Rating": 7,
+        "Recyclability_Rating": 8
+    },
+    "BetterAlternative": [
+        {
+        "Product": "Fairphone 4",
+        "Estimated_kg_CO2e": 50,
+        "Repairability_Rating": 9,
+        "Refurbishability_Rating": 9,
+        "Recyclability_Rating": 9
+        },
+        {
+        "Product": "Shiftphone 6m",
+        "Estimated_kg_CO2e": 55,
+        "Repairability_Rating": 8,  
+        "Refurbishability_Rating": 8,
+        "Recyclability_Rating": 8
+        }
+    ]
+}
