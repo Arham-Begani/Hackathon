@@ -2,10 +2,6 @@
 This Project was created in a hackathon
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/da8415c3-264a-4582-ad6e-51acac8e0904" />
-<img width="843" height="395" alt="image" src="https://github.com/user-attachments/assets/42df3afb-e423-4946-9c14-bccdbc5ca197" />
-<img width="1078" height="367" alt="image" src="https://github.com/user-attachments/assets/8a213702-13a2-4163-9f4b-8e78b7a47b01" />
-
 
 In the project directory, you can run:
 
@@ -71,3 +67,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/da8415c3-264a-4582-ad6e-51acac8e0904" />
+
